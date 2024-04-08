@@ -25,17 +25,27 @@ Here we analyze the scenario design of Google Maps' recommender system, explorin
 
 1.  Who are your target users?
 
+    The target users of the Google Maps recommender system is vast spectrum of individuals. From commuters seeking efficient routes, travelers looking for places to explore and businesses such as restaurants and shops seeking potential customers. Commuters use this on a daily basis to commute due to its efficiency with shorter or faster routes. Many travelers use it to discover local attractions such as restaurants and shops in their local area. Businesses also utilize this to boost their visibility and reach potential customers through Google's recommender system.
+
 2.  What are their key goals?
+
+    Since there are many different users of Google Maps, their all have different goals when utilizing the app. Commuters use it on a daily basis for efficient navigation, this is possible by Google's data systems that detect traffic and give users the quickest route. Travelers use the app to discover places of interest such as restaurants, museums and entertainment venues. I personally use Google Maps to check the hours of operation of a business before I make my way there. This ensures that I'm not wasting my time in traveling to said business. Business utilize Google Maps to inform the public of their operating hours as well as increasing foot traffic and attracting potential customers through reviews and images of their establishment.
 
 3.  How can you help them accomplish those goals?
 
+    To help the users of Google Maps accomplish their goals we can give these commuters more real time information on traffic conditions and issues on roads such as construction. We can give travelers personalized recommendations for places of interest ensuring they have access to the best establishments and events in their vicinity. Google Maps enables business owners by allowing to share information about their business such as photographs of their business and products, operating hours, and listings in order to improve their attractiveness to potential customers.
+
+    By aligning its recommendations with user goals and providing valuable assistance in achieving those goals, Google Maps' recommender system enhances the overall user experience and interaction of their application.
+
 ## Recommendations:
 
-In this portion we provide recommendations to enhance Google Maps recommendation capabilities, aiming to further improve user engagement as well as satisfaction. I've brainstormed quite a few recommendations that Google could utilize in order to drive more revenue through their Google Maps application. Google can refer people to services or events nearby and collect a commission from the purchase of every ticket. This would be a great feature for people who are in unfamiliar places or loacations such as tourists.
+In this portion we provide recommendations to enhance Google Maps recommendation capabilities, aiming to further improve user engagement as well as satisfaction. I've brainstormed quite a few recommendations that Google could utilize in order to drive more revenue through their Google Maps application. We can begin by further refinining recommendation algorithms to consider a broader range of user preferences and behavior patterns such as consistent destinations and ways to improve said route. The recommender system can improve integration with third-party services and businesses to provide additional features such as booking reservations, purchasing tickets, or ordering services directly from Google Maps. This would give Google the ability collect a commission from the purchase of every ticket or reservation. This would be a great feature for people who are in unfamiliar places or loacations such as tourists. Google Maps can also foster a more active user community by facilitating more user-generated content relating to traffic such as their competitor Waze. Waze is a navigation app that is very user-friendly and relies on the interaction from users to report issues such as speeding cameras, infractions on the road, and the presence of law enforcement which may prevent you from receiving speeding tickets. They can also tailor recommendations to specific regions and cultures to better serve different user demographics and preferences globally.
 
 ## Conclusion:
 
-## Refrences:
+Google Map's recommender system serves a diverse range of users such as commuters, travelers, and businesses, by providing personalized recommendations aligned with their specific goals. By offering real-time traffic updates, suggesting places of interest, and enabling businesses to enhance their visibility, Google Maps enhances user experience and engagement. Further refining recommendation algorithms, expanding integration with third-party services, and fostering a more active user community can greatly improve Google Map's recommendation algorithms capabilities, driving greater user satisfaction and interaction with the application.
+
+## References:
 
 [**https://www.searchenginejournal.com/google-maps-deliver-personal-recommendations-based-machine-learning/252127/**](https://www.searchenginejournal.com/google-maps-deliver-personal-recommendations-based-machine-learning/252127/){.uri}
 
