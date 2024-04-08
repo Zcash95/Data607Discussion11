@@ -1,0 +1,46 @@
+---
+title: "DATA 607- Discussion 11"
+author: "Biyag Dukuray"
+output: html_document
+date: "2024-04-03"
+---
+
+## Your task is to analyze an existing recommender system that you find interesting. You should:
+
+1.  Perform a Scenario Design analysis as described below. Consider whether it makes sense for your selected recommender system to perform scenario design twice, once for the organization (e.g. Amazon.com) and once for the organization's customers.
+
+2.  Attempt to reverse engineer what you can about the site, from the site interface and any available information that you can find on the Internet or elsewhere.
+
+3.  Include specific recommendations about how to improve the site's recommendation capabilities going forward.
+
+4.  Create your report using an R Markdown file, and create a discussion thread with a link to the GitHub repo where your Markdown file notebook resides. You are not expected to need to write code for this discussion assignment.
+
+## Introduction:
+
+This assignment requires us to identify and interesting recommender system to analyze. Recommender systems are algorithms used on web based sites to provide personalized suggestions to its users. In today's day with the vast amount of choices users have, it is important to give users personalized recommendations to drive satisfaction as well as the time utilized on said platform. The recommender system that I chose to use is that of Google Maps. Google maps stands out among many navigation applications due to its ability to offer accurate navigation and traffic data but also suggest nearby places based on the users preferences and interests.
+
+## Scenario design analysis:
+
+Here we analyze the scenario design of Google Maps' recommender system, exploring how it serves user goals and shapes the overall user experience.
+
+1.  Who are your target users?
+
+2.  What are their key goals?
+
+3.  How can you help them accomplish those goals?
+
+## Recommendations:
+
+In this portion we provide recommendations to enhance Google Maps recommendation capabilities, aiming to further improve user engagement as well as satisfaction. I've brainstormed quite a few recommendations that Google could utilize in order to drive more revenue through their Google Maps application. Google can refer people to services or events nearby and collect a commission from the purchase of every ticket. This would be a great feature for people who are in unfamiliar places or loacations such as tourists.
+
+## Conclusion:
+
+## Refrences:
+
+[**https://www.searchenginejournal.com/google-maps-deliver-personal-recommendations-based-machine-learning/252127/**](https://www.searchenginejournal.com/google-maps-deliver-personal-recommendations-based-machine-learning/252127/){.uri}
+
+[**https://recommender-systems.com/news/2021/04/08/google-maps-route-recommendations-now-consider-environment-fuel-consumption/**](https://recommender-systems.com/news/2021/04/08/google-maps-route-recommendations-now-consider-environment-fuel-consumption/){.uri}
+
+[**https://medium.com/\@karina.c/building-a-ranking-based-recommendations-system-e3adeb2c00f7**](https://medium.com/@karina.c/building-a-ranking-based-recommendations-system-e3adeb2c00f7){.uri}
+
+[**https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748**](https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748){.uri}
